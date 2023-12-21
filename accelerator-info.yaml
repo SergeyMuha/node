@@ -1,0 +1,11 @@
+id: ac538159-9a15-499b-aaea-678279cad69b
+timestamp: 2023-12-21T11:11:05.310Z
+source: TAP-GUI
+username: guest
+accelerator:
+  name: node-express
+fragments:
+  - name: tap-workload
+options:
+  projectName: node-express
+  includeTap: true
